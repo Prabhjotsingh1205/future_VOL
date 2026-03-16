@@ -1,0 +1,6 @@
+# Ignore SQLite DB and other artifacts
+groww_data.db
+instrument.csv
+.env
+__pycache__/
+*.pyc
